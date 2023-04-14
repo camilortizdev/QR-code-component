@@ -4,13 +4,13 @@ This is a solution to the [QR Code Component Challenge in Frontend Mentor](https
 
 ## Table of Contents
 
-- Summary](#summary)
-  - Screenshot](#screenshot)
-  - Links](#links)
-- My process](#my-process)
-  - Built-with](#built-with)
-  - Useful resources](#useful-resources)
-- Author](#author)
+- Summary(#summary)
+  - Screenshot(#screenshot)
+  - Links(#links)
+- My process(#my-process)
+  - Built-with(#built-with)
+  - Useful resources(#useful-resources)
+- Author(#author)
 
 ## Abstract
 
@@ -23,7 +23,7 @@ QR code component project using semantic HTML and CSS. A simple approach to gene
 ### Links
 
 - Solution URL: (https://github.com/camilortizdev/QR-code-component.git)
-- Live site URL: (https://your-live-site-url.com)
+- Live site URL: (https://qr-code-component.camilortiz.dev/)
 
 ### My process
 
